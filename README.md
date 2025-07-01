@@ -1,0 +1,3 @@
+# alshifa-medical-centre
+
+## Alshifa Medical Center is a website where you can book appointments with doctors of various specialties. The technology stack is ReactJs, TailwindCss for the frontend, and ExpressJs, MongoDB, and AppWrite for the backend. It contains a home page and a filter of all doctors by specialties, a doctor details page with the ability to book appointments with available dates, and a static About Us and Contact page. You can also log in as a doctor to see all your bookings and earnings, and manage appointments, canceling or accepting them. You can also edit your profile. Or, log in as an administrator to see which users have appointments with which doctors, add doctors, or view the full list of doctors.
